@@ -2,6 +2,8 @@
 
 Turn chatbot transcripts into a short list of what to fix first.
 
+![Terminal output: transcript-insights reports what to fix first from 400 example conversations](docs/demo.png)
+
 The tool reads conversation logs and works out where users get stuck, what the bot does not understand and which journeys lose the most people. The report starts with recommendations in plain English.
 
 ## The problem it solves
