@@ -159,8 +159,6 @@ Run the tests with `pytest`.
 
 Brightwater Pensions is made up. No real customer data, client content or company material is used anywhere in this project.
 
-Built with AI pair programming.
-
 ## Licence
 
 MIT
